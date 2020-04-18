@@ -485,7 +485,7 @@
 	branch = .
 [submodule "coroutine"]
 	path = libs/coroutine
-	url = ../../boostorg/coroutine.git
+	url = ../../karzhenkov/coroutine.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "coroutine2"]
